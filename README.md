@@ -2,7 +2,7 @@
 
 ## Descripción
 
-**GrafittySui** es un smart contract descentralizado construido sobre la blockchain Sui que simula un muro de graffiti urbano digital. El contrato permite crear muros virtuales donde artistas pueden pintar piezas de graffiti en diferentes posiciones, utilizando diversos estilos artísticos (Wildstyle, Bubble, Throw, Stencil, Mural). Cada pieza registra información del artista, estilo, colores utilizados y fecha de creación, además de permitir que la comunidad interactúe dando "likes" a las obras. Este sistema crea un espacio inmutable y verificable para el arte urbano digital, preservando la cultura del graffiti en la blockchain.
+**GrafittySui**  El contrato permite crear muros virtuales donde artistas pueden pintar piezas de graffiti en diferentes posiciones, utilizando diversos estilos artísticos (Wildstyle, Bubble, Throw, Stencil, Mural). Cada pieza registra información del artista, estilo, colores utilizados y fecha de creación, además de permitir que la comunidad interactúe dando "likes" a las obras. Este sistema crea un espacio inmutable y verificable para el arte urbano digital, preservando la cultura del graffiti en la blockchain.
 
 ## Funciones del Contrato
 

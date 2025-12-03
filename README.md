@@ -1,10 +1,7 @@
 # GrafittySui
 
-## Descripción
-
 **GrafittySui**  El contrato permite crear muros virtuales donde artistas pueden pintar piezas de graffiti en diferentes posiciones, utilizando diversos estilos artísticos (Wildstyle, Bubble, Throw, Stencil, Mural). Cada pieza registra información del artista, estilo, colores utilizados y fecha de creación, además de permitir que la comunidad interactúe dando "likes" a las obras. Este sistema crea un espacio inmutable y verificable para el arte urbano digital, preservando la cultura del graffiti en la blockchain.
 
-## Funciones del Contrato
 
 ### Funciones Públicas
 
@@ -130,13 +127,7 @@ public enum EstiloGraffiti has copy, drop, store {
     Mural       // Murales artísticos
 }
 ```
-Tipos de estilos de graffiti disponibles.
 
-## Características Técnicas
-
-- **Dynamic Fields**: Utiliza dynamic fields de Sui para almacenar piezas de manera eficiente
-- **Shared Objects**: Los muros son objetos compartidos accesibles por múltiples usuarios
-- **Interacción Social**: Sistema de likes para valorar las obras
 
 ## Tecnología
 
